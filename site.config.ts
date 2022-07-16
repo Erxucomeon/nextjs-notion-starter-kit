@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e76d6153424b42e0b14c3af5f8d713e4',
+  rootNotionPageId: '265c6c69f65f42e28a961fff68391aa5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Is_zx',
-  domain: 'https://playful-banon-4a6.notion.site/e76d6153424b42e0b14c3af5f8d713e4',
+  domain: 'https://playful-banon-4a6.notion.site/265c6c69f65f42e28a961fff68391aa5',
   author: 'Zx',
 
   // open graph metadata (optional)
